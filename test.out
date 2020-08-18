@@ -1,0 +1,26 @@
+Maximum flow value is 17
+
+Flows on edges are:
+     Initial    Terminal        Flow
+           a           b           6
+           a           e           7
+           a           h           4
+           b           c           6
+           c           d           7
+           c           g           1
+           d           z           7
+           e           c           2
+           e           f           3
+           e           i           2
+           f           g           3
+           g           j           4
+           h           i           4
+           i           j           6
+           j           z          10
+All other flows are 0 
+
+Minimal Cut:
+P = {a, e, h, i}
+Q = {b, c, d, f, g, j, z}
+
+

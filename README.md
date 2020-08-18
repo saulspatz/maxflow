@@ -1,0 +1,1 @@
+This is an implementation of  the lift-to-front preflow-push algorithm for the network flow problem.  See "Introduction to Algorithms" by Cormen, Leierson, and Rivest (CLR).  This was done for a class, and is not production code.
